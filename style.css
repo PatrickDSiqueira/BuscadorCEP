@@ -11,7 +11,12 @@ h1#titulo{
     border-radius: 5%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 input{
     background-color: whitesmoke;
     border: 1px solid rgb(170, 163, 163);
+
+
+
+
 }
