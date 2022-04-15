@@ -7,7 +7,7 @@ const showData = (result) => {
          }
     }
 };
-/* hi hi hi*/
+
 cep.addEventListener("blur",(e)=>{
     let search = cep.value.replace("-","");
     const options = {
