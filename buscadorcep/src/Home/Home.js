@@ -13,7 +13,7 @@ export function Home() {
             <h1 id="titulo">Consultando CEP</h1>
             <div className="form-group">
                 <label for="cep">CEP</label><br/>
-                <input type="text" className="form_control" id="cep" maxlength="9"/><br/>
+                <input type="text" className="form_control" id="cep" maxlength="9" /><br/>
                 <small /*style="font-size: 10px;"*/>00000-000</small>
             </div>
             <br/>
